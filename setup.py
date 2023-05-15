@@ -11,7 +11,7 @@ setup(
     description="Python library for airport lookup by IATA code or name",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/airportfinder",
+    url="https://github.com/EzeTP/airportfinder",
     packages=find_packages(),
     package_data={
     'pyalgo2': ['data/airports.json']
