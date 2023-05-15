@@ -6,8 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="airportfinder",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ezequiel Tejada",
     description="Python library for airport lookup by IATA code or name",
     long_description=long_description,
     long_description_content_type="text/markdown",
