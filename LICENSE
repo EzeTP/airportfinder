@@ -26,3 +26,10 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## Acknowledgments
+
+This project uses airport data provided by Thomas Reynolds's "Airports" gist on GitHub: 
+https://gist.github.com/tdreyno/4278655
+
+We would like to thank Thomas for his contributions to the open-source community and for making this data available to us.
