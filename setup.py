@@ -14,7 +14,7 @@ setup(
     url="https://github.com/EzeTP/airportfinder",
     packages=find_packages(),
     package_data={
-    'pyalgo2': ['data/airports.json']
+    'airportfinder': ['data/airports.json']
     },  
     classifiers=[
         "License :: OSI Approved :: BSD License",
